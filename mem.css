@@ -40,7 +40,7 @@ li a:hover:not(.active) {
 }
 
 .active {
-  float: left;
+  float: right;
   background-color: #472fa3;
   border-radius: 10px 10px 10px 10px;
 }
